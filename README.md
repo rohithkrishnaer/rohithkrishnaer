@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Rohith 👋
 
-<!--
-**rohithkrishnaer/rohithkrishnaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer based in Chelmsford, UK. MSc Accounting & Finance → building AI and automation systems for fintech and UK accounting workflows.
 
-Here are some ideas to get you started:
+#### 🛠 What I'm building
+- **FinDocs RAG** — financial document Q&A with live Companies House data
+- **BankFlow AI** — Open Banking transaction intelligence (TrueLayer / PSD2)
+- **AccountantGPT** — MCP + LangGraph agent for UK SMB accounting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧰 Stack
+Python · FastAPI · PostgreSQL + pgvector · LangChain · LangGraph · MCP · Anthropic & OpenAI APIs · Docker · AWS
+
+#### 📫 Find me
+🌐 [rohith.uk](https://rohith.uk) · 💼 [LinkedIn](https://linkedin.com/in/yourhandle) · ✉️ rohith@rohith.uk
+
+📍 Open to AI Engineer / Forward Deployed Engineer / Implementation Engineer roles in the UK · Sponsorship-eligible
